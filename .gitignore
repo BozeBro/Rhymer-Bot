@@ -1,0 +1,9 @@
+# Will be generated anyway
+*.js
+*.mjs
+# sensitive data
+auth.json
+package-lock.json
+
+#dependency directories
+node_modules/
